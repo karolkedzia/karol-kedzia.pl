@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d688dec-213f-4b6c-bb58-becb14eed680" name="My web server" url="http://bogdan.hostinghouse.pl/domains/karol-kedzia.pl/public_html">
+        <fileTransfer host="bogdan.hostinghouse.pl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
